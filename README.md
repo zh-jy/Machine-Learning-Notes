@@ -32,3 +32,4 @@ https://blog.csdn.net/Firehotest/article/details/79905008 crawler
 https://massivetechinterview.blogspot.com/2015/06/design-web-crawler.html crawler
 https://blog.csdn.net/awschina/article/details/15502205 Amazon S3
 
+https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-07-imbalanced-data/  unbalanced data
