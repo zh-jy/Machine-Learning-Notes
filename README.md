@@ -33,3 +33,5 @@ https://massivetechinterview.blogspot.com/2015/06/design-web-crawler.html crawle
 https://blog.csdn.net/awschina/article/details/15502205 Amazon S3
 
 https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-07-imbalanced-data/  unbalanced data
+
+https://zhuanlan.zhihu.com/p/36051603 模型压缩 优化
